@@ -1,0 +1,21 @@
+function names=names_labels();
+names={'mean  ';
+       'max   ';
+       'min   ';
+       'std   ';
+       'iqr   ';
+       'rank  ';
+       'kur   ';
+       'skw   ';
+       'q05    ';
+       'q10   ';
+       'q20   ';
+       'q30   ';
+       'q40   ';
+       'q50   ';
+       'q60   ';
+       'q70   ';
+       'q80   ';
+       'q90   ';
+       'q95   '};
+    
