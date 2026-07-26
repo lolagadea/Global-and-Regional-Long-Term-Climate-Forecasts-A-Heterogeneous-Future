@@ -1,0 +1,10 @@
+SOURCE OF DATA:
+
+Temperature data:
+https://crudata.uea.ac.uk/cru/data/temperature/
+
+Atlas data:
+The interactive Atlas is accessible at https://interactive-atlas.ipcc.ch/. Supplementary files,
+data sources, R scripts, and materials required for reproducing the results are available at
+https://github.com/IPCC-WG1/Atlas. A concise summary of these resources can be found at
+https://digital.csic.es/handle/10261/280324 (Iturbide et al., 2022). 
