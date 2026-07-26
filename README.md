@@ -179,3 +179,12 @@ This repository contains all materials necessary to reproduce the published resu
 - publicly available raw climate databases.
 
 Both can be obtained directly from their original providers using the information supplied in **Data_sources.txt**.
+
+
+Replication package DOI:
+
+https://doi.org/10.5281/zenodo.21609337
+
+Repository archived on Zenodo:
+
+https://doi.org/10.5281/zenodo.21609337
