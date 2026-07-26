@@ -89,6 +89,8 @@ The replication package requires:
 
 ---
 
+For simplicity, the extension modules included in the original replication package are distributed here as two independent folders (Atlas and Short_run_forecast_real_time).
+
 # Data availability
 
 The repository contains all MATLAB codes, processed datasets and intermediate files required to reproduce the empirical results, figures and tables reported in the published paper.
